@@ -1,0 +1,12 @@
+/* Style personnalisé */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header h1 {
+  color: #fff;
+}
+
+footer {
+  font-size: 14px;
+}
