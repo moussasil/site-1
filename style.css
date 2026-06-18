@@ -1,0 +1,21 @@
+/* Style personnalisé */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header h1 {
+  color: #fff;
+}
+
+footer {
+  font-size: 14px;
+}
+
+.btn-warning {
+  background-color: #d4af37;
+  border: none;
+  color: white;
+}
+.btn-warning:hover {
+  background-color: #b8860b;
+}
